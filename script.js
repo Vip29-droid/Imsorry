@@ -15,7 +15,7 @@
             loveGif.style.width = '100%';
             
             // Change text
-            document.querySelector('.forgive-text').textContent = "I LOVE YOU EDRIELLE ALLY PASTORIL";
+            document.querySelector('.forgive-text').textContent = "Thankyou love for forgiving me and yea we will have a data tomorrow :P";
             
             // Hide buttons
             yesBtn.style.display = 'none';
